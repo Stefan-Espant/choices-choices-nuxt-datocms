@@ -1,14 +1,7 @@
-<template>
-    <div>
-        <h1>Index</h1>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias placeat perferendis ut beatae itaque nostrum iste magnam aperiam doloribus assumenda.</p>
-    </div>
-</template>
-
 <script setup>
-
+const story = await useStoryblok('home', { version: 'draft' });
 </script>
 
-<style scoped>
-
-</style>
+<template>
+  <StoryblokComponent v-if="story" :blok="story.content" />
+</template>
