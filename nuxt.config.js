@@ -1,5 +1,7 @@
 export default defineNuxtConfig({
-  css: ['@/assets/css/roboto.css'],
+    server: {
+      https: false, // Schakel HTTPS uit
+    },
   modules: [
     [
       '@storyblok/nuxt',

@@ -15,5 +15,8 @@
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@storyblok/nuxt": "^5.7.4",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "local-ssl-proxy": "^2.0.5"
   }
 }
