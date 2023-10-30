@@ -5,10 +5,11 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "start": "nuxt start",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "prepare": "rm -rf node_modules/fsevents"
+    "prepare": "rm -rf node_modules/fsevents",
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
