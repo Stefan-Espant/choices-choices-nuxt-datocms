@@ -77,3 +77,5 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 # Bronnen
 
 https://www.code14.nl/blog/nuxt-3-framework-is-live-wat-is-het-en-wat-zijn-de-voordelen
+
+https://www.g2.com/products/datocms/reviews
