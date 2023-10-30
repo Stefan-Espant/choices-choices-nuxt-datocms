@@ -4,7 +4,6 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
     "start": "nuxt start",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
