@@ -43,12 +43,10 @@
                     ontspannen.
                 </p>
                 <NuxtLink to="/wensen">Ga naar wensen</NuxtLink>
+                <a href="/wensen">Ga naar wensen via a element</a>
             </article>
         </div>
     </section>
-
-    <p v-if="error">Something bad happened!</p>
-    <p v-else>Data: <code>{{ data }}</code></p>
 
 </template>
 

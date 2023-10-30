@@ -103,6 +103,7 @@ definePageMeta({
         object-fit: cover;
         border-radius: var(--unit-micro);
         margin-bottom: var(--unit-default);
+        background-color: var(--color-accent-100);
     }
 
     li h2 {
