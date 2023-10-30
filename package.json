@@ -300,7 +300,6 @@
     "npm-pick-manifest": "^9.0.0",
     "npm-registry-fetch": "^16.1.0",
     "npm-run-path": "^5.1.0",
-    "npmlog": "^5.0.1",
     "nth-check": "^2.1.1",
     "nuxi": "^3.9.0",
     "nypm": "^0.3.3",
