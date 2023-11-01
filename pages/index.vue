@@ -1,32 +1,7 @@
 <template>
     <section class="hero">
         <picture>
-        <source
-            media="(max-width: 1400px)"
-            srcset="./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_200.png 200w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_356.png 356w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_468.png 468w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_569.png 569w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_655.png 655w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_727.png 727w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_791.png 791w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_855.png 855w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_916.png 916w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_976.png 976w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1023.png 1023w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1079.png 1079w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1124.png 1124w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1173.png 1173w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1222.png 1222w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1267.png 1267w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1313.png 1313w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1356.png 1356w,
-                    ./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1378.png 1378w"
-        >
-        <img
-            src="./assets/Schermafbeelding_2023-10-23_om_21.42.21_vdwia0_c_scale,w_1400.png"
-            alt="Responsive Image"
-        >
+            <img src="https://hallostrandeiland.nl/networks/hallostrandeiland/img/hse_hero-bg.avif" alt="Hallo strandeiland" />
     </picture>
         <img src="https://hallostrandeiland.nl/networks/hallostrandeiland/img/hse_hero-bg.avif" alt="Hallo strandeiland" />
         <div>
@@ -43,7 +18,6 @@
                     ontspannen.
                 </p>
                 <NuxtLink to="/wensen">Ga naar wensen</NuxtLink>
-                <a href="/wensen">Ga naar wensen via a element</a>
             </article>
         </div>
     </section>
@@ -111,7 +85,6 @@ const { data, error } = await useFetch('https://graphql.datocms.com', {
 definePageMeta({
     layout: 'default'
 })
-
 
 </script>
 

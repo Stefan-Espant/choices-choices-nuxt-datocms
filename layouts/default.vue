@@ -195,7 +195,7 @@
     }
 
     main {
-        padding: var(--unit-default);
+        padding: 0;
     }
 
     @media (min-width: 27.5rem){

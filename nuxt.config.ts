@@ -1,5 +1,4 @@
 export default defineNuxtConfig({
-  buildModules: ['nuxt-vue-meta'],
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   runtimeConfig: {
@@ -7,7 +6,9 @@ export default defineNuxtConfig({
       datoCmsToken: process.env.DATO_CMS_TOKEN,
     },
   },
+  app: {
   head: {
     title: 'Hallo strandeiland',
-  },
+  },  
+}
 })
