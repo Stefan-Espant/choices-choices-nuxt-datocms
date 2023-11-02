@@ -9,7 +9,7 @@
   * [🎮 Gebruik](#-gebruik)
   * [🚢 Installatie](#-installatie)
   * [🔗 Bronnen](#-bronnen)
-  * [Licentie](##-licentie)
+  * [💠 Licentie](#-licentie)
 
 ## 📜 Beschrijving
 
@@ -119,5 +119,5 @@ bun run preview
 
 [Recensies datocms op g2.com](https://www.g2.com/products/datocms/reviews)
 
-## Licentie
+## 💠 Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
