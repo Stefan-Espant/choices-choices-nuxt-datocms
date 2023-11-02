@@ -1,9 +1,48 @@
-# Nuxt 3 Minimal Starter
+<img width="1370" alt="Schermafbeelding 2023-11-01 om 11 20 05" src="https://github.com/Stefan-Espant/hallo-strandeiland/assets/89298385/855407c3-40c8-49fa-8054-d7d6824bc2eb">
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# 📣 Hallo strandeiland - Nuxt & Datocms
 
-## Setup
+## 🗃️ Inhoudsopgave
 
+  * [📜 Beschrijving](#-beschrijving)
+  * [🎚 Kenmerken](#-kenmerken)
+  * [🎮 Gebruik](#-gebruik)
+  * [🚢 Installatie](#-installatie)
+  * [🔗 Bronnen](#-bronnen)
+  * [Licentie](##-licentie)
+
+## 📜 Beschrijving
+
+<img width="1370" alt="Schermafbeelding 2023-11-01 om 11 20 05" src="https://github.com/Stefan-Espant/hallo-strandeiland/assets/89298385/855407c3-40c8-49fa-8054-d7d6824bc2eb">
+
+Voor strandeiland ben ik gedoken in een nieuw framework en een nieuw headless cms gedoken. Ik koos ook een user story die alsvolgt luidde:
+
+> Als toekomstig bewoner, wil ik een reactie kunnen geven op voorstellen van andere toekomstige bewoners, zodat we kunnen samenwerken aan het vormgeven van de voorstellen.
+
+https://choices-choices-nuxt-datocms.vercel.app/
+
+## 🎚 Kenmerken
+
+Voor dit project is gebruikgemaakt van:
+
+**Tools**
+  * 💻 Visual Studio Code
+  * 🐱 Github
+    
+**Tech**
+  * ⚙️ Nuxt
+  * 🖼️ Datocms
+  * 📄 HTML
+  * 🖌️ CSS
+  * ⚡️ Javascript
+
+## 🎮 Gebruik
+
+Met deze site kunnen wensen worden weergegeven
+
+## 🚢 Installatie
+
+###
 Make sure to install the dependencies:
 
 ```bash
@@ -20,7 +59,7 @@ yarn install
 bun install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on `http://localhost:3000`:
 
@@ -38,7 +77,7 @@ yarn dev
 bun run dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 
@@ -72,10 +111,13 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 🔗 Bronnen
 
-# Bronnen
+[Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
 
-https://www.code14.nl/blog/nuxt-3-framework-is-live-wat-is-het-en-wat-zijn-de-voordelen
+[Wat is nuxt?](https://www.code14.nl/blog/nuxt-3-framework-is-live-wat-is-het-en-wat-zijn-de-voordelen)
 
-https://www.g2.com/products/datocms/reviews
+[Recensies datocms op g2.com](https://www.g2.com/products/datocms/reviews)
+
+## Licentie
+This project is licensed under the terms of the [MIT license](./LICENSE).
