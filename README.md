@@ -38,7 +38,7 @@ Voor dit project is gebruikgemaakt van:
 
 ## 🎮 Gebruik
 
-Met deze site kunnen wensen worden weergegeven
+Met deze site kunnen wensen worden weergegeven.
 
 ## 🚢 Installatie
 
